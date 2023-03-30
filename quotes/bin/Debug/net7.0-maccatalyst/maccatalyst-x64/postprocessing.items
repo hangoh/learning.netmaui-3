@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="quotes.app/Contents/MacOS/quotes">
+      <BCSymbolMapName>quotes.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>quotes.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/gohyuhan/Documents/quotes/quotes/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>quotes.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/gohyuhan/Documents/quotes/quotes</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
